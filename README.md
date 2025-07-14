@@ -1,11 +1,23 @@
+<h2 align="center">Hello 👋 </h2>
+
+<table align="center">
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="32" />
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+1P&size=24&pause=1000&color=39FF14&vCenter=true&width=480&lines=%3E_+Hello+There,+I'm+Idham;%3E_+Welcome+To+My+Github;" />
+    </td>
+  </tr>
+</table>
 <br clear="both">
 
-<h4 align="center">Hello 👋  Saya Idham</h4>
+
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=idhamux.idhamux&left_color=darkgrey"  />
+  <p align='center'><img src="https://komarev.com/ghpvc/?username=idhamux&label=Total%20Profile%20Visitor&color=blue&style=for-the-badge" alt="idhamux" />
 </div>
 
 ###
